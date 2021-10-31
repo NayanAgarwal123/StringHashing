@@ -1,1 +1,2 @@
 # StringHashing
+shing is amazing
